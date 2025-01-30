@@ -1,6 +1,6 @@
 # PowerBank
 ## Wstęp:
-Projekt wykorzystywał układ IP5328P. Zalety wybranego układu były następujące:
+Projekt wykorzystywał układ IP5328P. Pełny opis urządzenia znajduje się w dołączonym pliku PDF. Zalety wybranego układu były następujące:
 * 2 porty wyjściowe ładowania USB A
 * 2 porty wejściowo / wyjściowe ładowania (1x USB type C oraz 1x Micro USB)
 * Wsparcie dużej ilości protokołów Quick Charge w tym również różnych producentów urządzeń tj. Samsung oraz Apple
