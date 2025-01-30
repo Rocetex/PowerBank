@@ -28,4 +28,4 @@ Schemat oraz kostrukcja płytki PCB urządzenia wykonane zostały w programie Al
 
 ![image](https://github.com/user-attachments/assets/c217f4b4-ec20-4eb2-80ea-3c9aa960573b)
 
-![image](https://github.com/user-attachments/assets/03f26128-2216-4e72-97f1-9c4a8afb0015)
+![image](https://github.com/user-attachments/assets/76e60088-316e-426f-adf7-e7ffa6fd17be)
