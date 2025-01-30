@@ -7,9 +7,9 @@ Projekt wykorzystywał układ IP5328P. Pełny opis urządzenia znajduje się w d
 * Wbudowany protokół Power Delivery 2.0
 * Wsparcie różnych typów baterii od napięcia 4.20V do 4.50V
 * Maksymalny prąd wyjściowy dla poszczególnych napięć wyjściowych:
-      > 5V / 3.1A
-      > 9V / 2A
-      > 12V / 1.5A
+  >  5V / 3.1A
+  >  9V / 2A
+  >  12V / 1.5A
 * Sprawność do 95% (przy 5V / 2A prądu wyjściowego) osiągana dzięki zastosowaniu
 wbudowanych tranzystorów mocy typu MOSFET
 * Zabezpieczenie przed zbyt dużym oraz zbyt małym napięciem wejściowym
